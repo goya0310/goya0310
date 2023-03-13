@@ -1,4 +1,4 @@
-## ¡Hola! 👋...soy Diego Llaya, Bienvenido a mi repositorio
+## ¡Hola! 👋...soy Diego Llaya
 
 ### También conocido como goya0310 por mi perfil de GitHub
 
