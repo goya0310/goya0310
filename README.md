@@ -1,9 +1,8 @@
 ## ¡Hola! 👋...soy Diego Llaya, Bienvenido a mi repositorio
------------------------------------------------------------
+
 ### También conocido como goya0310 por mi perfil de GitHub
 
 ## ¿Quién soy?
------------------------------------------------------------
 
 Soy un desarrollador Web full Stack en formación constante y apasionado por crear soluciones innovadoras.
 
@@ -20,8 +19,15 @@ Hace años que emprendo así que tuve que forjar ciertas habilidades como la aut
 JavaScript | ReactJs | Redux | Node | Express | PostgreSQL | HTML | CSS
 
 ## Proyectos destacados
+
 Pokémon App - Proyecto individual presentado en soyHenry - https://github.com/goya0310/pokemon-app
+
 Groove Tickets - Proyecto grupal presentado en soyHenry - https://pg-front-henry.vercel.app/
+
+## Contacto
+
+diegollaya@gmail.com
+https://www.linkedin.com/in/diego-llaya-01272652/
 
 <!--
 **goya0310/goya0310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
