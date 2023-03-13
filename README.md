@@ -27,7 +27,8 @@ Groove Tickets - Proyecto grupal presentado en soyHenry - https://pg-front-henry
 ## Contacto
 
 diegollaya@gmail.com
-https://www.linkedin.com/in/diego-llaya-01272652/
+
+[[LinkedIn]](https://www.linkedin.com/in/diego-llaya-01272652/)
 
 <!--
 **goya0310/goya0310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
