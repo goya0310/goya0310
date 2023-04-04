@@ -20,9 +20,11 @@ JavaScript | ReactJs | Redux | Node | Express | PostgreSQL | HTML | CSS
 
 ## Proyectos destacados
 
+Mi Portfolio - Realizado con React y Three JS - https://diegollaya-portfolio.netlify.app/
+
 Pokémon App - Proyecto individual presentado en soyHenry - https://github.com/goya0310/pokemon-app
 
-Groove Tickets - Proyecto grupal presentado en soyHenry - https://pg-front-henry.vercel.app/
+Groove Tickets - Proyecto grupal presentado en soyHenry - https://grooveticket.up.railway.app/
 
 ## Contacto
 
